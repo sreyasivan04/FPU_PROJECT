@@ -1,0 +1,10 @@
+regression_cm/normal_add_test_1.vdb
+regression_cm/normal_add_test_2.vdb
+regression_cm/normal_add_test_3.vdb
+regression_cm/normal_add_test_4.vdb
+regression_cm/normal_add_test_5.vdb
+regression_cm/normal_add_test_6.vdb
+regression_cm/normal_add_test_7.vdb
+regression_cm/normal_add_test_8.vdb
+regression_cm/normal_add_test_9.vdb
+regression_cm/normal_add_test_10.vdb

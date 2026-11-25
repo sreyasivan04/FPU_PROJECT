@@ -1,0 +1,3 @@
+top.dut.u_fpu.S_IDLE0
+top.dut.u_fpu.S_OPERATION2
+top.dut.u_fpu.S_SPECIAL1

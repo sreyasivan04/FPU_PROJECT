@@ -1,0 +1,43 @@
+<session version="1.1" release="Q-2020.03-SP2-8" timestp="2026-11-25 05:12:56 GMT">
+  <info>
+    <attr name="datetime" value="Wed Nov 25 10:43:16 2026
+"/>
+    <attr name="command" value="urg -dir regression_cm/normal_add_test_1.vdb regression_cm/normal_add_test_2.vdb regression_cm/normal_add_test_3.vdb regression_cm/normal_add_test_4.vdb regression_cm/normal_add_test_5.vdb regression_cm/normal_add_test_6.vdb regression_cm/normal_add_test_7.vdb regression_cm/normal_add_test_8.vdb regression_cm/normal_add_test_9.vdb regression_cm/normal_add_test_10.vdb -dbname regression_cm/merged -report regression_cm/merged/report"/>
+  </info>
+  <hvp>
+    <datadef>
+      <metdef name="Assert" type="ratio" aggregator="average" builtin="1" />
+      <metdef name="Group" type="percent" aggregator="average" builtin="1" />
+    </datadef>
+  </hvp>
+  <old_coverage>
+  <scope type="top" name="top">
+    <metric name="Assert" value="9/9" />
+    <metric name="Group" value="95.7143%" />
+  </scope>
+  <scope type="instance" name="top">
+  </scope>
+  <scope type="group" name="top">
+    <scope type="group" name="fpu_test_pkg::fpu_coverage::cg_op">
+      <metric name="Group" value="91.4286%" />
+    </scope>
+    <scope type="group" name="fpu_test_pkg::fpu_coverage::cg_ctrl">
+      <metric name="Group" value="100%" />
+    </scope>
+  </scope>
+  <scope type="assert" name="Statistics">
+    <scorelist type="total" name="Design Hierarchy Assert">
+      <score name="Assert" value="9/9" />
+      <score name="Score" value="100.00" />
+    </scorelist>
+    <scorelist type="total" name="Module List Assert">
+      <score name="Assert" value="10/12" />
+      <score name="Score" value="83.33" />
+    </scorelist>
+    <scorelist type="total" name="Assertion">
+      <score name="Assert" value="10/12" />
+      <score name="Score" value="83.33" />
+    </scorelist>
+  </scope>
+  </old_coverage>
+</session>

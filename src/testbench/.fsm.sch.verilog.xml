@@ -1,0 +1,8 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="ps_0"  type="2"  fileName="fpu_core.v"  >
+    <Seg beginLine="86"  endLine="123"  />
+  </RTLInfo>
+<Instance name="top.dut.u_fpu"  />
+</RTLBlock>
+</Command>
