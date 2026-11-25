@@ -1,0 +1,22 @@
+# Simulation generated files
+*.log
+simv
+simv.*
+simv.daidir/
+csrc/
+ucli.key
+vc_hdrs.h
+*.vcd
+*.vpd
+*.fsdb
+*.vdb/
+regression_cm/
+regression_cm.vdb
+vdCovLog/
+novas.conf
+novas.rc
+
+# Temporary files
+*.swp
+*.swo
+.DS_Store
